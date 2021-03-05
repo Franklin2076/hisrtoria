@@ -5,3 +5,6 @@ Se que talvèz no sera perfecto pero eso no importa
 Mi meta es convertirme en el mejor programador que mis capacidades me permita
 
 En este momento tengo 44 años y estoy aprendiendo a programar
+
+
+Este contenido que ves es para que se note la diferencia entre el master y la rama cabecera y cuando se haga el primer merge notemos los cambios.
