@@ -1,5 +1,6 @@
 EL TÌTULO DE ESTE EJEMPLO ES MI PRIMER TRABAJO DE PRÁCTICA 
 
+El objetivo de esto es aprender más
 
 Estta es un archivo de prueba para mi primer commit
 
@@ -8,3 +9,4 @@ Se que talvèz no sera perfecto pero eso no importa
 Mi meta es convertirme en el mejor programador que mis capacidades me permita
 
 En este momento tengo 44 años y estoy aprendiendo a programar
+
